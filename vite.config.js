@@ -11,19 +11,5 @@ export default {
   server: {
     port: 8080,
     hot: true
-  },
-  build: {
-    // output dir for production build
-    outDir: resolve(__dirname, './dist'),
-    emptyOutDir: true,
-
-    // esbuild target
-    target: 'ES6',
-
-    // our entry
-    rollupOptions: {
-     input: '/src/js/main.js'
-    }
-  },
-
+  }
 }
