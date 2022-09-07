@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     const xObj = new XMLHttpRequest();
     xObj.overrideMimeType("application/json");
     // 1. replace './data.json' with the local path of your file
-    xObj.open('GET', '../assets/work.json', true);
+    xObj.open('GET', '/data/work.json', true);
     xObj.onreadystatechange = () => {
         if (xObj.readyState === 4 && xObj.status === 200) {
             // 2. call your callback function
