@@ -13,6 +13,6 @@ export default {
     hot: true
   },
   build: {
-    outDir: '../public'
+    outDir: 'public'
   }
 }
