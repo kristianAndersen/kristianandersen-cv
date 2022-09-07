@@ -1,0 +1,568 @@
+{
+    "basics": {
+      "name": "Kristian Andersen",
+      "label": "Full Stack Developer",
+      "picture": "",
+      "email": "krilleandersen@gmail.com",
+      "phone": "+45 22420459",
+      "website": "https://portfolio-2020.freaktrick.vercel.app/",
+      "summary": "Frontend developer JS // NODE // REACT // VUE //. \nformer Creative - Art director // Graphic designer // illustrator.\n\n\nI am creative and expressive by nature and i embrace challenges, I'm a positve team player and i dig problem solving, are wise in the ways of technology and a head packed full of ides.\n\nI want to explore my potential and advance my knowledge into all areas of art and design and code, be part of something, be my self, deliver quality–consistently  get involved and be respected by my peers and enjoy it all\n\nWant to know more? send me a message add me to your network.\n",
+      "location": {
+        "countryCode": "US",
+        "address": "Denmark"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "freaktrick",
+          "url": "https://www.linkedin.com/in/freaktrick/"
+        },
+        {
+          "network": "Twitter",
+          "username": "FreakTrick",
+          "url": "https://twitter.com/FreakTrick"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Experis",
+        "endDate": "",
+        "highlights": [],
+        "position": "Full Stack Java Developer",
+        "startDate": "2021-01-31",
+        "website": "https://www.linkedin.com/company/experis/"
+      },
+      {
+        "company": "Danske Spil A/S",
+        "endDate": "2020-12-31",
+        "highlights": [],
+        "position": "Senior Grafiker/Ad'er",
+        "startDate": "2015-10-31",
+        "summary": "Design og grafik til Intern/ekstern brug CRM SO-ME på alle DLI brands.",
+        "website": "https://www.linkedin.com/company/danske-spil/"
+      },
+      {
+        "company": "Danske Spil A/S",
+        "endDate": "2015-10-31",
+        "highlights": [],
+        "position": "Freelance AD'er grafiker",
+        "startDate": "2015-06-30",
+        "summary": "Design af digitale banner kampagner til Danske spil (Lotto, Casino, Poker, Quick, Bingo mm,)",
+        "website": "https://www.linkedin.com/company/danske-spil/"
+      },
+      {
+        "company": "Bonnie&Clyde",
+        "endDate": "2015-11-30",
+        "highlights": [],
+        "position": "Illustration, grafisk & digital design.. billede kunst -vægmalerier",
+        "startDate": "2011-10-31",
+        "summary": "Digital design, apps, tryk sager, banners, frontend, vægmalerier, illustration og alt der måtte lande imellem.\nDesign og art direction af Semper appen -Klar, parat, spis.",
+        "website": "https://www.linkedin.com/company/bonnie&clyde/"
+      },
+      {
+        "company": "RelationshusetGekko",
+        "endDate": "2015-10-31",
+        "highlights": [],
+        "position": "Freelance Grafiker",
+        "startDate": "2015-06-30",
+        "summary": "Grafiske opgaver til trykt og digital produktion.",
+        "website": "https://www.linkedin.com/company/relationshusetgekko/"
+      },
+      {
+        "company": "Isobar",
+        "endDate": "2013-11-30",
+        "highlights": [],
+        "position": "Freelance Flash Designer",
+        "startDate": "2013-09-30",
+        "summary": "Flash banners mm",
+        "website": ""
+      },
+      {
+        "company": "Moch",
+        "endDate": "2013-09-30",
+        "highlights": [],
+        "position": "Freelance Graphic Designer & Frontend",
+        "startDate": "2013-09-30",
+        "summary": "Grafisk Design/web og frontend",
+        "website": ""
+      },
+      {
+        "company": "OgilvyOne",
+        "endDate": "2013-04-30",
+        "highlights": [],
+        "position": "Freelance AD'er",
+        "startDate": "2013-02-28",
+        "summary": "Freelance Art director/grafiker. \nEmail design til yousee, telia, DSB. \nArt Directinn grafik/illustration til IBM pixibog lykkelig uvidenhed der to guld i DM.\n\nJury-begrundelse:\n\n”IBM gør noget, som de færreste store BtB-virksomheder har modet til. Med Lykkelig Uvidenhed overrasker de ved at benytte en næsten pixibogs-agtig kommunikation om et stort og komplekst område. Det fortjener at blive belønnet. Og det bliver det. Ikke kun med denne pris – men også i form af nogle fantastiske resultater. Kampagnen har en dejlig enkelhed over sig. Det hele er skåret ud i pap, man gør det komplicerede enkelt – og det enkle interessant. Billedsproget er skarpt og overbevisende med en fin emotionel vinkling i overskriften, og det hele er koblet utrolig godt sammen”.",
+        "website": ""
+      },
+      {
+        "company": "Patchwork Group",
+        "endDate": "2013-01-31",
+        "highlights": [],
+        "position": "Freelance AD'er",
+        "startDate": "2013-01-31",
+        "summary": "AD og digital design på Facebook app for Roskilde festivalen.",
+        "website": "https://www.linkedin.com/company/patchwork-group/"
+      },
+      {
+        "company": "OgilvyOne Worldwide",
+        "endDate": "2012-10-31",
+        "highlights": [],
+        "position": "Freelance-AD assistent",
+        "startDate": "2012-10-31",
+        "summary": "Opdaterede grafiske elementer til online brug for DSB Plus mm.",
+        "website": ""
+      },
+      {
+        "company": "AdPeople Worldwide",
+        "endDate": "2012-09-30",
+        "highlights": [],
+        "position": "Freelance Digital producer",
+        "startDate": "2012-08-31",
+        "summary": "Flash & rich media banner development.\nGraphic/digital design and layout. \nLandingpages and all the whatsnots and so on.",
+        "website": "https://www.linkedin.com/company/adpeople-worldwide/"
+      },
+      {
+        "company": "Wunderman",
+        "endDate": "2012-01-31",
+        "highlights": [],
+        "position": "interaktiv designer",
+        "startDate": "2011-11-30",
+        "summary": "Freelancer hos Wunderman interaktiv designer",
+        "website": ""
+      },
+      {
+        "company": "Copenhagen Cloud Company",
+        "endDate": "2011-12-31",
+        "highlights": [],
+        "position": "Flash developer",
+        "startDate": "2010-11-30",
+        "summary": "Code: AS3, HTML5, jquery.\ncreative: Web design & illustration. \n\nFor clients such as Novo Nordisk, TV3, Thomas Cook Airlines, Fritz Hansen, just to namedrop a few.",
+        "website": "https://www.linkedin.com/company/cph-cloud-company/"
+      },
+      {
+        "company": "FreakTrick Creative",
+        "endDate": "2010-09-30",
+        "highlights": [],
+        "position": "Freelance",
+        "startDate": "2000-01-31",
+        "summary": "Selected jobs:\n------------------------------------------------------------------------------------------\nArt on commission (drawing, oil and acrylic paintings) to private collectors.\n\nFor the band Century: Design of logo, CD-cover, website and Flash front end (AS3).\n\nFor the band Mermaids purse: Design of CD-cover.\n\nIllustration for clients including. \nWhere2Go, BG Bank, Nesa, BBDO, CoreComp, 3D house\n\nFor the jazz musician, Per Gade: Design of website and Flash front end (AS2)\n\nStoryboard artist for Nicolo Donato",
+        "website": ""
+      },
+      {
+        "company": "3dhuset",
+        "endDate": "2010-12-31",
+        "highlights": [],
+        "position": "Digital designer",
+        "startDate": "2010-12-31",
+        "summary": "Flash banners for Nordea Ejendomme",
+        "website": ""
+      },
+      {
+        "company": "Graphit",
+        "endDate": "2009-06-30",
+        "highlights": [],
+        "position": "Mediegrafiker",
+        "startDate": "2006-04-30",
+        "summary": "Print og web design, Flash banner/animations, illustration, logo design, motion graphics i flash mm.\n\nMotion Graphics til Statoil - Instore TV. Udført i Flash",
+        "website": ""
+      },
+      {
+        "company": "Finnbjoern Consult",
+        "endDate": "2005-12-31",
+        "highlights": [],
+        "position": "kampagne medarbejder",
+        "startDate": "2005-10-31",
+        "summary": "Kampagne medarbejder under brug hovedet kampagne.",
+        "website": ""
+      },
+      {
+        "company": "mig selv",
+        "endDate": "2005-12-31",
+        "highlights": [],
+        "position": "Billede kunstner",
+        "startDate": "2003-12-31",
+        "summary": "bestillings malerier mm.",
+        "website": ""
+      },
+      {
+        "company": "diverse jobs",
+        "endDate": "2003-12-31",
+        "highlights": [],
+        "position": "lager arbejder,pædagog medhjælper,",
+        "startDate": "2000-12-31",
+        "summary": "diverse små jobs",
+        "website": ""
+      },
+      {
+        "company": "Operation Dagsværk",
+        "endDate": "2000-10-31",
+        "highlights": [],
+        "position": "Grafiker",
+        "startDate": "2000-02-28",
+        "summary": "Layout af undervisnings materialer, magasiner, plakater flyers mm.",
+        "website": ""
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Operation dagsværk",
+        "position": "Grafiker",
+        "website": "",
+        "startDate": "2000-02-28",
+        "endDate": "2000-02-28",
+        "summary": "Design og klargøring af tryksager og hjemmeside ",
+        "highlights": []
+      },
+      {
+        "organization": "Admin",
+        "position": "Administrator på facebook gruppen Danske grafiker og webudvilker ",
+        "website": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "Jeg er med til at administrere gruppen danske grafiker og webudvikler. \nher forsøger vi hat holde god tone men samtidig skabe debat.\nSammen med et par andre admins har jeg været med til at gro gruppen fra et par hunderede medlemmer til at vi nu  er 6989 medlemmer, der deler jobopslag, erfaringer tips tricks og råd og feedback.",
+        "highlights": []
+      }
+    ],
+    "education": [
+      {
+        "institution": "Medieskolen Lyngby",
+        "area": "Grafisk design",
+        "studyType": "",
+        "startDate": "1997-12-31",
+        "endDate": "1998-12-31",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Kunstskolen i Hillerød",
+        "area": "Klasisk tegner",
+        "studyType": "diplom",
+        "startDate": "1996-12-31",
+        "endDate": "1997-12-31",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Kunst  & Design på Fredriksberg",
+        "area": "Kunst & Design",
+        "studyType": "",
+        "startDate": "2001-12-31",
+        "endDate": "2001-12-31",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Copenhagen Technical Academy",
+        "area": "mediegrafiker",
+        "studyType": "mediegrafiker",
+        "startDate": "2006-12-31",
+        "endDate": "2009-12-31",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Sydvestfyns Efterskole",
+        "area": "10 klasse",
+        "studyType": "",
+        "startDate": "1995-12-31",
+        "endDate": "1996-12-31",
+        "gpa": "",
+        "courses": []
+      },
+      {
+        "institution": "Copenhagen Technical Academy",
+        "area": "Mediegrafiker",
+        "studyType": "",
+        "startDate": "2002-12-31",
+        "endDate": "2003-12-31",
+        "gpa": "",
+        "courses": []
+      }
+    ],
+    "awards": [
+      {
+        "title": "Direct Marketing Prisen 2014",
+        "date": "2014-05-31",
+        "awarder": "postdanmark / DM Dagen",
+        "summary": "Direct Marketing Prisen 2014\nBedste Direct Mail\n\nJeg stod for Illustration / Art direction / Layout\n\nJury, Direct Marketing Prisens kommentar:\n\nIBM gør noget, som de færreste store BtB-virksomheder har modet til.\nMed Lykkelig Uvidenhed overrasker de ved at benytte en næsten pixibogs-agtig kommunikation om et stort og komplekst område. Det fortjener at blive belønnet. Og det bliver det. Ikke kun med denne pris – men også i form af nogle fantastiske resultater. Kampagnen har en dejlig enkelhed over sig. Det hele er skåret ud i pap, man gør det komplicerede enkelt – og det enkle interessant. Billedsproget er skarpt og overbevisende med en fin emotionel vinkling i overskriften, og det hele er koblet utrolig godt sammen.\n\nTillykke til vinderne i kategorien Bedste direct mail: IBM Danmark og OgilvyOne worldwide.\n"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Art Direction",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "HTML 5",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Graphic Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Logo Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Ogilvy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Frontend-udvikling",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Drawing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "HTML5",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "InDesign",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Adobe Acrobat",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "HTML",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Photoshop",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Illustration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Storyboarding",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Art",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Painting",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "CSS",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Digital Illustration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hand Drawing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Flink fyr",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Adobe Creative Suite",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Informationsgrafik",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Vector Illustration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Flash Animation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Visuelt design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Concept Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Creative Direction",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Konceptudvikling",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Illustrator",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Visual Communication",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Front-end",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Brochures",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Graphics",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "javascript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Web Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "ActionScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Interaction Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Corporate Identity",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Advertising",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Image Manipulation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Electron cross platform desktop apps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "User Interface Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Posters",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Digital Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Image Editing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Layout",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "en",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [
+      {
+        "name": "Thomas Rungstrøm",
+        "reference": "Kristian har været forbi og hjulpet OgilvyOne med grafik produktion flere gange. Lynhurtig og stilsikker eksekvering hver gang! Han har været indeover både digitale opgaver samt et par offline opgaver.\r\n\r\nUdover at han har leveret hver gang, er han et yderst behageligt selskab. Med andre ord;  jeg vil ikke tvivle med at ringe til Kristian en anden gang når vi skal bruge hjælp."
+      },
+      {
+        "name": "Ben Catford",
+        "reference": "During the short time Kristian has spent with us as a freelancer, he has proven himself to be a very capable flash developer with a good creative eye.  He is eager to learn new things and adapt the ever-changing digital environment!"
+      },
+      {
+        "name": "Anders Hjarnaa",
+        "reference": "I have worked with Kristian for most of a year. He is a skilled designer and flash developer.\r\nHe always has his finger on the digital pulse, discovering new trends, technologies and news stories in the digital press, always a good source of information.\r\nI can highly recommend Kristian to anyone looking for a great guy, that knows his way around the digital trends, and has a broad knowledge of digital design and flash."
+      },
+      {
+        "name": "Anselm Christophersen",
+        "reference": "En god og interesseret kollega, med gode allround-kompetencer. Særdeles fine illustrations-evner!"
+      },
+      {
+        "name": "Magnus Kragelund",
+        "reference": "Kristian har arbejdet som Flashudvikler på nogen af vores store og højt profilerede kunder. Han kender Flash ind og ud, og er stærk både med Actionscript og design.\r\nHan er en rar og pålidelig kollega, som bliver til opgaven er færdig - en gevinst for ethvert team."
+      },
+      {
+        "name": "Jørgen Juul",
+        "reference": "Kristian har arbejdet for CPH Cloud Company som Flash udvikler i knap et år. Kristian er en dygtig, pålidelig og ihærdig medarbejder, som følger med i hvad der foregår omkring ham og i skyen, hvilket vi sætter pris på her i butikken. Vi kender Kristian som en god og afholdt kollega, der er rar at arbejde sammen med. Hermed mine varmeste anbefalinger."
+      }
+    ]
+  }
